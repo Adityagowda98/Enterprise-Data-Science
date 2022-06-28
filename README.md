@@ -1,8 +1,8 @@
 # Enterprise-Data-Science
-The respective ipynb files shows three main figures of three nations(India, Unites States and Germany)
+The respective ipynb files shows three main figures of three nations(India, Unites States and Germany).
 fig1 shows--Absolute Covid Cases per Population over time.
-fig2 shows--Covid Vaccination rate overtime of 1st Dose(Percentage of the population)
-fig3 shows--Covid Vaccination rate overtime of 2nd Dose(Percentage of the population)
+fig2 shows--Covid Vaccination rate overtime of 1st Dose(Percentage of the population).
+fig3 shows--Covid Vaccination rate overtime of 2nd Dose(Percentage of the population).
 
 
 The vaccination dataset are been taken from the below links:-
